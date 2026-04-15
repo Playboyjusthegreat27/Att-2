@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="Negro BG.png">
-<SubTexture name="Hill zone bg 1 idle0000" x="0" y="0" width="3546" height="1440" frameX="0" frameY="0" frameWidth="3546" frameHeight="1440" />
-<SubTexture name="Hill zone bg 1 idle0001" x="0" y="1440" width="3546" height="1440" frameX="0" frameY="0" frameWidth="3546" frameHeight="1440" />
-<SubTexture name="Hill zone bg 1 idle0002" x="3546" y="0" width="3546" height="1440" frameX="0" frameY="0" frameWidth="3546" frameHeight="1440" />
-<SubTexture name="Hill zone bg 1 idle0003" x="3546" y="1440" width="3546" height="1440" frameX="0" frameY="0" frameWidth="3546" frameHeight="1440" />
-</TextureAtlas>

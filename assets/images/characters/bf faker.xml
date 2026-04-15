@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="bf faker.png">
-<SubTexture name="bf faker idle0000" x="0" y="0" width="31" height="34" frameX="-15" frameY="-12" frameWidth="62" frameHeight="46" />
-<SubTexture name="bf faker idle0001" x="31" y="34" width="31" height="32" frameX="-13" frameY="-14" frameWidth="62" frameHeight="46" />
-<SubTexture name="bf faker idle0002" x="62" y="34" width="31" height="32" frameX="-13" frameY="-14" frameWidth="62" frameHeight="46" />
-<SubTexture name="bf faker idle0003" x="0" y="34" width="31" height="33" frameX="-14" frameY="-13" frameWidth="62" frameHeight="46" />
-<SubTexture name="bf faker idle0004" x="31" y="0" width="31" height="34" frameX="-15" frameY="-12" frameWidth="62" frameHeight="46" />
-<SubTexture name="bf faker idle0005" x="62" y="0" width="31" height="34" frameX="-15" frameY="-12" frameWidth="62" frameHeight="46" />
-</TextureAtlas>

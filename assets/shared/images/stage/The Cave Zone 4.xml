@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="The Cave Zone 4.png">
-<SubTexture name="The Cave Zone 4 idle0000" x="0" y="0" width="3546" height="432" frameX="0" frameY="-696" frameWidth="3546" frameHeight="1440" />
-<SubTexture name="The Cave Zone 4 idle0001" x="0" y="432" width="3546" height="426" frameX="0" frameY="-702" frameWidth="3546" frameHeight="1440" />
-<SubTexture name="The Cave Zone 4 idle0002" x="0" y="858" width="3546" height="426" frameX="0" frameY="-702" frameWidth="3546" frameHeight="1440" />
-<SubTexture name="The Cave Zone 4 idle0003" x="0" y="1284" width="3546" height="426" frameX="0" frameY="-702" frameWidth="3546" frameHeight="1440" />
-</TextureAtlas>
