@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gf - eggman.png">
+<SubTexture name="gf - eggman right0000" x="0" y="0" width="287" height="81" frameX="-11" frameY="-28" frameWidth="320" frameHeight="130" />
+<SubTexture name="gf - eggman right0001" x="287" y="162" width="288" height="80" frameX="-14" frameY="-29" frameWidth="320" frameHeight="130" />
+<SubTexture name="gf - eggman right0002" x="0" y="81" width="287" height="81" frameX="-14" frameY="-28" frameWidth="320" frameHeight="130" />
+<SubTexture name="gf - eggman right0003" x="0" y="162" width="287" height="81" frameX="-12" frameY="-28" frameWidth="320" frameHeight="130" />
+<SubTexture name="gf - eggman left0000" x="0" y="0" width="287" height="81" frameX="-11" frameY="-28" frameWidth="320" frameHeight="130" />
+<SubTexture name="gf - eggman left0001" x="0" y="243" width="290" height="80" frameX="-6" frameY="-29" frameWidth="320" frameHeight="130" />
+<SubTexture name="gf - eggman left0002" x="287" y="0" width="289" height="81" frameX="-7" frameY="-28" frameWidth="320" frameHeight="130" />
+<SubTexture name="gf - eggman left0003" x="287" y="81" width="287" height="81" frameX="-10" frameY="-28" frameWidth="320" frameHeight="130" />
+</TextureAtlas>

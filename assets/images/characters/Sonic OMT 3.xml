@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sonic OMT 3.png">
+<SubTexture name="Sonic OMT 1 idle0000" x="178" y="96" width="30" height="36" frameX="-8" frameY="-24" frameWidth="50" frameHeight="60" />
+<SubTexture name="Sonic OMT 1 idle0001" x="79" y="134" width="31" height="34" frameX="-8" frameY="-12" frameWidth="43" frameHeight="46" />
+<SubTexture name="Sonic OMT 1 idle0002" x="139" y="134" width="29" height="33" frameX="-9" frameY="-13" frameWidth="43" frameHeight="46" />
+<SubTexture name="Sonic OMT 1 idle0003" x="110" y="134" width="29" height="34" frameX="-9" frameY="-12" frameWidth="43" frameHeight="46" />
+<SubTexture name="Sonic OMT 1 idle0004" x="135" y="96" width="29" height="35" frameX="-9" frameY="-11" frameWidth="43" frameHeight="46" />
+<SubTexture name="Sonic OMT 1 idle0005" x="178" y="96" width="30" height="36" frameX="-8" frameY="-10" frameWidth="43" frameHeight="46" />
+<SubTexture name="Sonic OMT 3 down0000" x="168" y="134" width="34" height="33" frameX="-15" frameY="-27" frameWidth="60" frameHeight="60" />
+<SubTexture name="Sonic OMT 3 down0001" x="74" y="174" width="35" height="32" frameX="-15" frameY="-28" frameWidth="60" frameHeight="60" />
+<SubTexture name="Sonic OMT 3 down0002" x="0" y="174" width="36" height="33" frameX="-15" frameY="-27" frameWidth="60" frameHeight="60" />
+<SubTexture name="Sonic OMT 3 down0003" x="36" y="174" width="38" height="33" frameX="-15" frameY="-27" frameWidth="60" frameHeight="60" />
+<SubTexture name="Sonic OMT 3 left0000" x="92" y="67" width="43" height="56" frameX="-5" frameY="-4" frameWidth="60" frameHeight="60" />
+<SubTexture name="Sonic OMT 3 left0001" x="135" y="0" width="43" height="56" frameX="-5" frameY="-4" frameWidth="60" frameHeight="60" />
+<SubTexture name="Sonic OMT 3 left0002" x="178" y="0" width="45" height="56" frameX="-3" frameY="-4" frameWidth="60" frameHeight="60" />
+<SubTexture name="Sonic OMT 3 left0003" x="44" y="67" width="48" height="57" frameX="0" frameY="-3" frameWidth="60" frameHeight="60" />
+<SubTexture name="Sonic OMT 3 right0000" x="39" y="134" width="40" height="39" frameX="-15" frameY="-10" frameWidth="70" frameHeight="49" />
+<SubTexture name="Sonic OMT 3 right0001" x="178" y="56" width="40" height="40" frameX="-16" frameY="-9" frameWidth="70" frameHeight="49" />
+<SubTexture name="Sonic OMT 3 right0002" x="135" y="56" width="39" height="40" frameX="-18" frameY="-9" frameWidth="70" frameHeight="49" />
+<SubTexture name="Sonic OMT 3 right0003" x="0" y="134" width="39" height="40" frameX="-19" frameY="-9" frameWidth="70" frameHeight="49" />
+<SubTexture name="Sonic OMT 3 Up0000" x="0" y="0" width="45" height="67" frameX="-5" frameY="-13" frameWidth="60" frameHeight="80" />
+<SubTexture name="Sonic OMT 3 Up0001" x="45" y="0" width="44" height="67" frameX="-6" frameY="-13" frameWidth="60" frameHeight="80" />
+<SubTexture name="Sonic OMT 3 Up0002" x="89" y="0" width="46" height="67" frameX="-8" frameY="-13" frameWidth="60" frameHeight="80" />
+<SubTexture name="Sonic OMT 3 Up0003" x="0" y="67" width="44" height="67" frameX="-9" frameY="-13" frameWidth="60" frameHeight="80" />
+</TextureAtlas>

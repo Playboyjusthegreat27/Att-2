@@ -1,39 +1,41 @@
 {
-	"songs": [
-		[
-			"Me and the boys",
-			"spooky",
-			[
-				255,
-				133,
-				213
-			]
-		],
-		[
-			"Spittin",
-			"spooky",
-			[
-				255,
-				133,
-				213
-			]
-		]
-	],
+	"storyName": "WEEK 2",
+	"difficulties": "Hard",
 	"hideFreeplay": false,
-	"weekBackground": "bois",
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
-	"storyName": "Day 2: the line cutters",
-	"weekName": "Fortnite kids",
+	"weekBackground": "week2",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"hideStoryMode": false,
 	"weekBefore": "week1",
-	"startUnlocked": true
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Bingo Forest",
+			"Encore-bf",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Foggy Volcano",
+			"cream",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "",
+	"hiddenUntilUnlocked": false
 }

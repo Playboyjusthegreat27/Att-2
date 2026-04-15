@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				12,
+				171
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "gf dead right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				171
+			],
+			"anim": "danceLeft",
+			"fps": 13,
+			"name": "gf dead left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/gf dead Gone",
+	"position": [
+		-3,
+		9000
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-50,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 8.00000000000001
+}

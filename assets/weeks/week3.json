@@ -1,22 +1,42 @@
 {
-	"songs": [
-		["Gabbie", "pico", [148, 22, 83]],
-		["Beat drop", "pico", [148, 22, 83]],
-		["Pretty funky", "pico", [148, 22, 83]]
+	"storyName": "WEEK 3",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "week3",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
-	"weekCharacters": [
-		"pico",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "philly",
-
-	"storyName": "a shocking introduction",
 	"weekBefore": "week2",
-	"weekName": "Week 3",
 	"startUnlocked": true,
-
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		
+		[
+			"South Tropic",
+			"sally",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Snowy Volcano",
+			"sally",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "",
+	"hiddenUntilUnlocked": false
 }
