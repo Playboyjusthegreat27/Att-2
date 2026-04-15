@@ -1,0 +1,18 @@
+Doobop:dad:1
+Refreshed:dad:1
+Spooky Fight:dad:1
+Creepz:spooky:2
+North:spooky:2
+Night Lights:pico:2
+Gunfight:pico:3
+Funky Nice:pico:3
+Turf War:pico:3
+Ecstacy:mom-car:4
+Cruise Control:mom-car:4
+Joyride:mom-car:4
+Slurry:parents-christmas:5
+Flurry:parents-christmas:5
+Snowblind:parents-christmas:5
+Social Suicide:senpai:6
+Recess:senpai-angry:6
+Splinters:spirit:6
